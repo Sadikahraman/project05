@@ -1,4 +1,6 @@
 merhaba
 baya uzun surdu 
 baya yoruldum
-cakisma olacak
+
+deneme remote
+
